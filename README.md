@@ -7,4 +7,4 @@
 - Безопасное поле для пароля.
 - Навигация: Реализована навигация между экранами с использованием.
 
-  [mobil](https://github.com/SwiftUI_Login_and_SignUp_Screens-/blob/main/swiftUI-Login/swiftUI-Login/Assets.xcassets/mobil.imageset/mobil.pdf)
+  ![mobil](https://github.com/sega-strn/SwiftUI_Login_and_SignUp_Screens-/blob/main/swiftUI-Login/swiftUI-Login/Assets.xcassets/mobil.imageset/mobil-1.png)
